@@ -1,0 +1,11 @@
+en:
+  theme_metadata:
+    description: ""
+  checkout_tickets: CHECKOUT Tickets
+  my_tickets: My Tickets
+  start_checkout: Start Checkout
+  launch_auction: Launch Auction
+  fee_calculator: Fee Calculator
+  swapd_rewards: "SWAPD Rewards"
+  stats: Sales/Purchase Stats
+  start_topic: Start Topic/Listing

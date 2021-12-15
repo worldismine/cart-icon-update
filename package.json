@@ -1,0 +1,7 @@
+{
+  "author": "muhlisbc@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint-config-discourse": "latest"
+  }
+}

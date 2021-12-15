@@ -1,0 +1,11 @@
+custom_links: |
+  <li>
+    <a class="widget-link" href="/create-auction" data-auto-route="true">Create Auction 1</a>
+  </li>
+  <li>
+    <a class="widget-link" href="/create-auction" data-auto-route="true">Create Auction 2</a>
+  </li>
+svg_icons:
+  default: "cart-plus|gavel|shopping-cart|calculator|ticket-alt|plus-circle|dollar-sign|chart-line|handshake"
+  type: "list"
+  list_type: "compact"
