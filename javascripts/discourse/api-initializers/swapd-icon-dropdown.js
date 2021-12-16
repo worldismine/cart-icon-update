@@ -50,7 +50,7 @@ createWidget(
               "aria-expanded": widget.state.swapdDropDownVisible
             },
           },
-          iconNode("cart-plus")
+          iconNode("shopping-cart")
         );
       },
     },
