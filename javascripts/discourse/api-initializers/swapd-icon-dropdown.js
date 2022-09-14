@@ -73,7 +73,7 @@ createWidget("swapd-dropdown-panel", {
   panelContents() {
     let group1 = [];
 
-    if (this.currentUser.admin) {
+    if (this.currentUser.can_view_tickets) {
       group1.push(this._createLink("/u/checkout/messages", "checkout_tickets", "shopping-cart"));
     } else {
       group1.push(this._createLink("/my/messages/tickets", "my_tickets", "ticket-alt"));
